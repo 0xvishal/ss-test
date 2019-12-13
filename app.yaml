@@ -1,4 +1,5 @@
 runtime: python27
+service: ss-test
 api_version: 1
 threadsafe: yes
 
